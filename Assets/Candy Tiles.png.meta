@@ -1,0 +1,1234 @@
+fileFormatVersion: 2
+guid: f214b500fadbfc44bbdaf8e5c77d0468
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Candy Tiles_0
+    21300002: Candy Tiles_1
+    21300004: Candy Tiles_2
+    21300006: Candy Tiles_3
+    21300008: Candy Tiles_4
+    21300010: Candy Tiles_5
+    21300012: Candy Tiles_6
+    21300014: Candy Tiles_7
+    21300016: Candy Tiles_8
+    21300018: Candy Tiles_9
+    21300020: Candy Tiles_10
+    21300022: Candy Tiles_11
+    21300024: Candy Tiles_12
+    21300026: Candy Tiles_13
+    21300028: Candy Tiles_14
+    21300030: Candy Tiles_15
+    21300032: Candy Tiles_16
+    21300034: Candy Tiles_17
+    21300036: Candy Tiles_18
+    21300038: Candy Tiles_19
+    21300040: Candy Tiles_20
+    21300042: Candy Tiles_21
+    21300044: Candy Tiles_22
+    21300046: Candy Tiles_23
+    21300048: Candy Tiles_24
+    21300050: Candy Tiles_25
+    21300052: Candy Tiles_26
+    21300054: Candy Tiles_27
+    21300056: Candy Tiles_28
+    21300058: Candy Tiles_29
+    21300060: Candy Tiles_30
+    21300062: Candy Tiles_31
+    21300064: Candy Tiles_32
+    21300066: Candy Tiles_33
+    21300068: Candy Tiles_34
+    21300070: Candy Tiles_35
+    21300072: Candy Tiles_36
+    21300074: Candy Tiles_37
+    21300076: Candy Tiles_38
+    21300078: Candy Tiles_39
+    21300080: Candy Tiles_40
+    21300082: Candy Tiles_41
+    21300084: Candy Tiles_42
+    21300086: Candy Tiles_43
+    21300088: Candy Tiles_44
+    21300090: Candy Tiles_45
+    21300092: Candy Tiles_46
+    21300094: Candy Tiles_47
+    21300096: Candy Tiles_48
+    21300098: Candy Tiles_49
+    21300100: Candy Tiles_50
+    21300102: Candy Tiles_51
+    21300104: Candy Tiles_52
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Candy Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3156
+        width: 522
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ba43315307a8b41a79013ff60800fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3156
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76980babd76c354bb222a9cb4b3154b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 3156
+        width: 522
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add849de0a2716e4984cc0631fd86d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 3153
+        width: 521
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725b3bf14629a4e459588e69c647c5b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 3153
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca4adeef030914b82611c796ac0cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 3156
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c38bc894a65d4e89e7718c4184636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 3156
+        width: 521
+        height: 519
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb5a2e409480804b99616c6a8ad554b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 3156
+        width: 519
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0bbb3dec12d2d45a7d323eba50e9e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 3156
+        width: 522
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced3f53d42a51ff40b1a2d5d93081ed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 3156
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe50b9e369839458ada010037be352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2587
+        width: 507
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5539a1850263c4f9d579d4cf80539d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2587
+        width: 497
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac68f88d8bd5e0488a14301f82566b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2587
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84f56e150b02b45871ccb0d48993cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 2590
+        width: 497
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f53a903a017e4fb41e8b8160c4cf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2587
+        width: 507
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f60f0f8949b31f4a969b10da15b96da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 2587
+        width: 507
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d66fd245b6178448499265756dff49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 2587
+        width: 497
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7862deaaa8832e45b45cba9e2c761ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 2587
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d1a882bf123b04ea7218426f8170b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 2587
+        width: 497
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b892adafe625a49a86064d712e2668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 2587
+        width: 508
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962f405be857c754585f31fb4c591bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1999
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9294f2abfbaa4eb912dceb7ee9d7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2002
+        width: 520
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4b0aed03dacdd4c8fe8ecaf40e7149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1999
+        width: 521
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838105edce497304883df7bdcac92331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 2002
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b495ff66c903e4aa110e547a0bdce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1999
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc26620ba2111e488c7fb26ddc9db05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 1999
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bfc25cfd6c50c44827d93fec784b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1999
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6126cf9ad4426b4480247deaa5bc771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 1999
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d39f7d136563ba468ee1afe3a80e7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1405
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2262b854e7578248ac7e954e870e94a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1405
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e5fa9437e614439e5d7764e25161a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1405
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57af62a84f30f6e49bb0b5e6af71b5d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1405
+        width: 521
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5478593717f3f4e815c8b8082acb7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1405
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15674c13b6223f8418266b60de3e80b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 3338
+        y: 1406
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4d5c1d463b254abf9b902038dccd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 1405
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3e8982d4dcd6f4db69c44fb8b91380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1405
+        width: 519
+        height: 522
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678c4438a6ed934aa44a5e6e7611695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1405
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed7572ad2da3604b9b4e79b542d972c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 1405
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f5feb8f516d784b8a2fdcfa5d4dbb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 833
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e82533221088742941a4cd77ed9aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 833
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f387d013ac5f2149affd89c9e1ba221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 833
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199a8a002b72acc43b99b31664193677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 833
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a644f8bca598c54d8b45dd9f1a36606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 833
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364c90e33b9ee241a0c8f9535d6eff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 830
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063e7f8f0c4efd6498fcaa1e93e9a30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 830
+        width: 522
+        height: 522
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd9e96a17982d148a5f1b1c2b4f1aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 830
+        width: 519
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c089c67ec504944898989203f49411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 5151
+        y: 830
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0657d72158cf464d95f212b3203f47a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 830
+        width: 522
+        height: 522
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d45565390fe240ba1cc6ac4988c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 117
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec106a113c43f45b97aeb033cb6ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 117
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3755caad9a64a4a81e6ea27a10ee74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 117
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfb78b40a5f71c4d9a6655d45813b3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 211
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdab3373515f6c42b2956c1d65d4067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candy Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 5195
+        y: 211
+        width: 522
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4497d1ad831034e866c387ae431e2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b79127f2ff0e22247bc00377509c157b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
