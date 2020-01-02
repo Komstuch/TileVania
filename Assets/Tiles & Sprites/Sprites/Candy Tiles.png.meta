@@ -98,7 +98,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 522
+  spritePixelsToUnits: 519
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -164,10 +164,10 @@ TextureImporter:
         serializedVersion: 2
         x: 149
         y: 3156
-        width: 522
+        width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,7 +187,7 @@ TextureImporter:
         width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,10 +204,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1358
         y: 3156
-        width: 522
+        width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,10 +224,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1950
         y: 3153
-        width: 521
+        width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -247,7 +247,7 @@ TextureImporter:
         width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -264,10 +264,10 @@ TextureImporter:
         serializedVersion: 2
         x: 3338
         y: 3156
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -284,7 +284,7 @@ TextureImporter:
         serializedVersion: 2
         x: 3916
         y: 3156
-        width: 521
+        width: 519
         height: 519
       alignment: 1
       pivot: {x: 0, y: 1}
@@ -307,7 +307,7 @@ TextureImporter:
         width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -324,10 +324,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5148
         y: 3156
-        width: 522
+        width: 519
         height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,10 +344,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5736
         y: 3156
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: Candy Tiles_10
       rect:
         serializedVersion: 2
-        x: 164
+        x: 145
         y: 2587
-        width: 507
-        height: 512
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -382,12 +382,12 @@ TextureImporter:
       name: Candy Tiles_11
       rect:
         serializedVersion: 2
-        x: 761
+        x: 736
         y: 2587
-        width: 497
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -404,10 +404,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1358
         y: 2587
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: Candy Tiles_13
       rect:
         serializedVersion: 2
-        x: 1956
+        x: 1958
         y: 2590
-        width: 497
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -444,10 +444,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2512
         y: 2587
-        width: 507
-        height: 512
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,12 +462,12 @@ TextureImporter:
       name: Candy Tiles_15
       rect:
         serializedVersion: 2
-        x: 3353
-        y: 2587
-        width: 507
-        height: 512
+        x: 3340
+        y: 2589
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -482,12 +482,12 @@ TextureImporter:
       name: Candy Tiles_16
       rect:
         serializedVersion: 2
-        x: 3944
-        y: 2587
-        width: 497
-        height: 522
+        x: 3920
+        y: 2589
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -505,9 +505,9 @@ TextureImporter:
         x: 4541
         y: 2587
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -524,10 +524,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5148
         y: 2587
-        width: 497
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -544,10 +544,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5736
         y: 2587
-        width: 508
-        height: 512
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -564,10 +564,10 @@ TextureImporter:
         serializedVersion: 2
         x: 149
         y: 1999
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -584,10 +584,10 @@ TextureImporter:
         serializedVersion: 2
         x: 743
         y: 2002
-        width: 520
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -602,12 +602,12 @@ TextureImporter:
       name: Candy Tiles_22
       rect:
         serializedVersion: 2
-        x: 1950
+        x: 1954
         y: 1999
-        width: 521
-        height: 521
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -622,12 +622,12 @@ TextureImporter:
       name: Candy Tiles_23
       rect:
         serializedVersion: 2
-        x: 2512
+        x: 2513
         y: 2002
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -644,10 +644,10 @@ TextureImporter:
         serializedVersion: 2
         x: 3338
         y: 1999
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -662,12 +662,12 @@ TextureImporter:
       name: Candy Tiles_25
       rect:
         serializedVersion: 2
-        x: 3919
-        y: 1999
-        width: 522
-        height: 522
+        x: 3918
+        y: 2001
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -684,10 +684,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5148
         y: 1999
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -704,10 +704,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5736
         y: 1999
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -724,10 +724,10 @@ TextureImporter:
         serializedVersion: 2
         x: 145
         y: 1405
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -745,9 +745,9 @@ TextureImporter:
         x: 739
         y: 1405
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -764,10 +764,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1358
         y: 1405
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -784,10 +784,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1950
         y: 1405
-        width: 521
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -805,9 +805,9 @@ TextureImporter:
         x: 2512
         y: 1405
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -824,10 +824,10 @@ TextureImporter:
         serializedVersion: 2
         x: 3338
         y: 1406
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -844,8 +844,8 @@ TextureImporter:
         serializedVersion: 2
         x: 3919
         y: 1405
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -862,12 +862,12 @@ TextureImporter:
       name: Candy Tiles_35
       rect:
         serializedVersion: 2
-        x: 4541
+        x: 4545
         y: 1405
         width: 519
-        height: 522
-      alignment: 9
-      pivot: {x: 0, y: 0}
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -882,12 +882,12 @@ TextureImporter:
       name: Candy Tiles_36
       rect:
         serializedVersion: 2
-        x: 5148
+        x: 5150
         y: 1405
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -904,10 +904,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5736
         y: 1405
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -922,12 +922,12 @@ TextureImporter:
       name: Candy Tiles_38
       rect:
         serializedVersion: 2
-        x: 160
+        x: 149
         y: 833
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -945,9 +945,9 @@ TextureImporter:
         x: 739
         y: 833
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -964,10 +964,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1358
         y: 833
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -984,10 +984,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1959
         y: 833
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1002,12 +1002,12 @@ TextureImporter:
       name: Candy Tiles_42
       rect:
         serializedVersion: 2
-        x: 2515
+        x: 2519
         y: 833
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1022,12 +1022,12 @@ TextureImporter:
       name: Candy Tiles_43
       rect:
         serializedVersion: 2
-        x: 3353
+        x: 3338
         y: 830
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1044,8 +1044,8 @@ TextureImporter:
         serializedVersion: 2
         x: 3919
         y: 830
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1065,9 +1065,9 @@ TextureImporter:
         x: 4541
         y: 830
         width: 519
-        height: 522
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1084,10 +1084,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5151
         y: 830
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1104,8 +1104,8 @@ TextureImporter:
         serializedVersion: 2
         x: 5736
         y: 830
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1124,8 +1124,8 @@ TextureImporter:
         serializedVersion: 2
         x: 599
         y: 117
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1144,8 +1144,8 @@ TextureImporter:
         serializedVersion: 2
         x: 1155
         y: 117
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1164,10 +1164,10 @@ TextureImporter:
         serializedVersion: 2
         x: 1718
         y: 117
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1184,10 +1184,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4588
         y: 211
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1204,10 +1204,10 @@ TextureImporter:
         serializedVersion: 2
         x: 5195
         y: 211
-        width: 522
-        height: 522
+        width: 519
+        height: 519
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
