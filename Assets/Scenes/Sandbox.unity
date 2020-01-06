@@ -176,7 +176,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be1f7a4de940b7b438b755733111dfe8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  runSpeed: 10
+  runSpeed: 7
+  jumpSpeed: 16
 --- !u!1 &343723024
 GameObject:
   m_ObjectHideFlags: 0
@@ -1102,7 +1103,7 @@ GameObject:
   - component: {fileID: 551940084}
   - component: {fileID: 551940083}
   - component: {fileID: 551940082}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Foreground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3958,6 +3959,10 @@ PrefabInstance:
     - target: {fileID: 330344819, guid: 65df23a8c1de3624880135a829163d07, type: 3}
       propertyPath: m_Constraints
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 330344819, guid: 65df23a8c1de3624880135a829163d07, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65df23a8c1de3624880135a829163d07, type: 3}
