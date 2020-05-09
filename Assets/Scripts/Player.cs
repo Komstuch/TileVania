@@ -1,5 +1,7 @@
-﻿using System.Collections;
+﻿using CollabProxy.UI;
+using System.Collections;
 using System.Collections.Generic;
+//using System.Numerics;
 using UnityEngine;
 using UnityStandardAssets.CrossPlatformInput;
 
@@ -28,10 +30,12 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        if(!isAlive) { return; }
         Run();
         Jump();
         ClimbLadder();
         FlipSprite();
+        Die();
     }
 
     private void Run()
@@ -85,5 +89,16 @@ public class Player : MonoBehaviour
         }
     }
 
+    private void Die()
+    {
+        if (myBodyCollider2D.IsTouchingLayers(LayerMask.GetMask("Enemy")))
+        {
+            Debug.Log("Ouch!");
+            isAlive = false;
+            myAnimator.SetBool("isDead", true);
 
+            Vector2 deathKick = new Vector2(-10f, 10f);
+            myRigidBody.velocity = deathKick;
+        }
+    }
 }
