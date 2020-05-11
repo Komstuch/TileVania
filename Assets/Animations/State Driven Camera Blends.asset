@@ -22,14 +22,24 @@ MonoBehaviour:
     m_To: Virtual Camera Run
     m_Blend:
       m_Style: 1
-      m_Time: 1
-  - m_From: '**ANY CAMERA**'
+      m_Time: 2
+  - m_From: Virtual Camera Idle
+    m_To: Virtual Camera Ladder
+    m_Blend:
+      m_Style: 1
+      m_Time: 2
+  - m_From: Virtual Camera Run
     m_To: Virtual Camera Ladder
     m_Blend:
       m_Style: 1
       m_Time: 2
   - m_From: Virtual Camera Ladder
-    m_To: '**ANY CAMERA**'
+    m_To: Virtual Camera Idle
+    m_Blend:
+      m_Style: 1
+      m_Time: 2
+  - m_From: Virtual Camera Ladder
+    m_To: Virtual Camera Run
     m_Blend:
       m_Style: 1
       m_Time: 2

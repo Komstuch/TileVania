@@ -25,8 +25,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7614973509113622540}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.0199997, y: 3.7, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -17.8, y: -3.05, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7614973510377482184}
@@ -103,7 +103,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7614973509115457732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.87, y: 0.019755006, z: -10}
+  m_LocalPosition: {x: -11.112984, y: -2.000888, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7614973509384591815}
@@ -247,8 +247,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7614973509728217244}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.87, y: -1.82, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -17.800003, y: -3.05, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7614973510405939075}
@@ -366,15 +366,15 @@ MonoBehaviour:
     m_MinDuration: 0
   - m_FullHash: 205928705
     m_VirtualCamera: {fileID: 7614973509113622543}
-    m_ActivateAfter: 0
+    m_ActivateAfter: 0.1
     m_MinDuration: 0
   - m_FullHash: 32899788
     m_VirtualCamera: {fileID: 7614973510911917914}
-    m_ActivateAfter: 0
+    m_ActivateAfter: 0.1
     m_MinDuration: 0
   m_DefaultBlend:
     m_Style: 1
-    m_Time: 0.5
+    m_Time: 2
   m_CustomBlends: {fileID: 11400000, guid: 96c620c5455aa744dbc780cd88e0b6df, type: 2}
   m_ParentHash:
   - m_Hash: 807106478
@@ -382,6 +382,8 @@ MonoBehaviour:
   - m_Hash: 32899788
     m_ParentHash: 756556552
   - m_Hash: 205928705
+    m_ParentHash: 756556552
+  - m_Hash: -1890132419
     m_ParentHash: 756556552
 --- !u!1 &7614973510377482199
 GameObject:
@@ -394,7 +396,6 @@ GameObject:
   - component: {fileID: 7614973510377482184}
   - component: {fileID: 7614973510377482186}
   - component: {fileID: 7614973510377482185}
-  - component: {fileID: 7614973510377482187}
   m_Layer: 0
   m_Name: cm
   m_TagString: Untagged
@@ -455,7 +456,7 @@ MonoBehaviour:
   m_SoftZoneWidth: 0.8
   m_SoftZoneHeight: 0.8
   m_BiasX: 0
-  m_BiasY: 0.00000021674416
+  m_BiasY: 0.49999994
   m_GroupFramingMode: 2
   m_AdjustmentMode: 2
   m_GroupFramingSize: 0.8
@@ -467,21 +468,6 @@ MonoBehaviour:
   m_MaximumFOV: 60
   m_MinimumOrthoSize: 1
   m_MaximumOrthoSize: 100
---- !u!114 &7614973510377482187
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7614973510377482199}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_NoiseProfile: {fileID: 11400000, guid: 68b0627ea3d796448b29ab0938f2c240, type: 2}
-  m_AmplitudeGain: 0.1
-  m_FrequencyGain: 0.2
 --- !u!1 &7614973510405939074
 GameObject:
   m_ObjectHideFlags: 0
@@ -553,7 +539,7 @@ MonoBehaviour:
   m_SoftZoneWidth: 0.8
   m_SoftZoneHeight: 0.8
   m_BiasX: 0
-  m_BiasY: 0.00000021674416
+  m_BiasY: 0.49999994
   m_GroupFramingMode: 2
   m_AdjustmentMode: 2
   m_GroupFramingSize: 0.8
@@ -590,8 +576,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7614973510911917927}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.0199997, y: 3.7, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -17.8, y: -3.05, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 7614973510915203497}
@@ -699,20 +685,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LookaheadTime: 0
   m_LookaheadSmoothing: 10
-  m_XDamping: 3
-  m_YDamping: 3
+  m_XDamping: 1
+  m_YDamping: 5
   m_ZDamping: 1
   m_ScreenX: 0.5
   m_ScreenY: 0.5
   m_CameraDistance: 10
-  m_DeadZoneWidth: 0.1
-  m_DeadZoneHeight: 0.1
+  m_DeadZoneWidth: 0.3
+  m_DeadZoneHeight: 0.25
   m_DeadZoneDepth: 0
   m_UnlimitedSoftZone: 0
   m_SoftZoneWidth: 0.8
   m_SoftZoneHeight: 0.8
   m_BiasX: 0
-  m_BiasY: 0.00000025544847
+  m_BiasY: 0.49999994
   m_GroupFramingMode: 2
   m_AdjustmentMode: 2
   m_GroupFramingSize: 0.8

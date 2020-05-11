@@ -53,12 +53,12 @@ TagManager:
   - name: Hazards
     uniqueID: 3355056481
     locked: 0
-  - name: Player
-    uniqueID: 1885450121
-    locked: 0
   - name: Foreground
     uniqueID: 1444833285
     locked: 0
   - name: Decorations
     uniqueID: 18843451
+    locked: 0
+  - name: Player
+    uniqueID: 1885450121
     locked: 0
