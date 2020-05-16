@@ -7,8 +7,6 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] GameObject deathCanvas;
-
     [SerializeField] float runSpeed = 7f;
     [SerializeField] float jumpSpeed = 5f;
     [SerializeField] float climbSpeed = 5f;
@@ -30,7 +28,6 @@ public class Player : MonoBehaviour
         startingPlayerGravity = myRigidBody.gravityScale;
         myBodyCollider2D.sharedMaterial.friction = 0f;
         myFeetCollider2D.sharedMaterial.friction = 0f;
-        deathCanvas.gameObject.SetActive(false);
     }
 
     void Update()
@@ -106,16 +103,21 @@ public class Player : MonoBehaviour
             myBodyCollider2D.sharedMaterial.friction = 1f;
             myFeetCollider2D.sharedMaterial.friction = 1f;
             myRigidBody.velocity = deathKick;
-            StartCoroutine(DeathScreen());
+            StartCoroutine(PlayerDeathRespawn());
         }
     }
 
-    IEnumerator DeathScreen()
+    IEnumerator PlayerDeathRespawn()
     {
+        GameSession gameSession = FindObjectOfType<GameSession>();
+        Debug.Log(gameSession);
+
         Time.timeScale = 0.5f;
         yield return new WaitForSeconds(1);
         Time.timeScale = 1f;
+
         myRigidBody.velocity = Vector2.zero;
-        deathCanvas.gameObject.SetActive(true);
+        
+        gameSession.ProcessPlayerDeath();
     }
 }
