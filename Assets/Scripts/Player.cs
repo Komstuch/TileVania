@@ -7,6 +7,8 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Player : MonoBehaviour
 {
+    [SerializeField] GameObject deathCanvas;
+
     [SerializeField] float runSpeed = 7f;
     [SerializeField] float jumpSpeed = 5f;
     [SerializeField] float climbSpeed = 5f;
@@ -26,6 +28,9 @@ public class Player : MonoBehaviour
         myBodyCollider2D = GetComponent<CapsuleCollider2D>();
         myFeetCollider2D = GetComponent<BoxCollider2D>();
         startingPlayerGravity = myRigidBody.gravityScale;
+        myBodyCollider2D.sharedMaterial.friction = 0f;
+        myFeetCollider2D.sharedMaterial.friction = 0f;
+        deathCanvas.gameObject.SetActive(false);
     }
 
     void Update()
@@ -98,7 +103,19 @@ public class Player : MonoBehaviour
             myAnimator.SetBool("isDead", true);
 
             Vector2 deathKick = new Vector2(-Mathf.Sign(myRigidBody.velocity.x) *10f, 10f);
+            myBodyCollider2D.sharedMaterial.friction = 1f;
+            myFeetCollider2D.sharedMaterial.friction = 1f;
             myRigidBody.velocity = deathKick;
+            StartCoroutine(DeathScreen());
         }
+    }
+
+    IEnumerator DeathScreen()
+    {
+        Time.timeScale = 0.5f;
+        yield return new WaitForSeconds(1);
+        Time.timeScale = 1f;
+        myRigidBody.velocity = Vector2.zero;
+        deathCanvas.gameObject.SetActive(true);
     }
 }
