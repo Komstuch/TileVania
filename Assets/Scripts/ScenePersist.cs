@@ -27,10 +27,6 @@ public class ScenePersist : MonoBehaviour
                 DontDestroyOnLoad(gameObject);
             }
         }
-        else
-        {
-            StartCoroutine(Singleton());
-        }
     }
 
     IEnumerator Singleton()

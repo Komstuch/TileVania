@@ -20,7 +20,7 @@ TagManager:
   - Enemy
   - Hazards
   - Interactibles
-  - 
+  - BackgroundDeco
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 3526618055
+    locked: 0
+  - name: BackgroundDeco
+    uniqueID: 2139672587
     locked: 0
   - name: Ladder
     uniqueID: 2458616333

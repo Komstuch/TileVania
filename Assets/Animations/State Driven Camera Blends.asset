@@ -23,23 +23,3 @@ MonoBehaviour:
     m_Blend:
       m_Style: 1
       m_Time: 2
-  - m_From: Virtual Camera Idle
-    m_To: Virtual Camera Ladder
-    m_Blend:
-      m_Style: 1
-      m_Time: 2
-  - m_From: Virtual Camera Run
-    m_To: Virtual Camera Ladder
-    m_Blend:
-      m_Style: 1
-      m_Time: 2
-  - m_From: Virtual Camera Ladder
-    m_To: Virtual Camera Idle
-    m_Blend:
-      m_Style: 1
-      m_Time: 2
-  - m_From: Virtual Camera Ladder
-    m_To: Virtual Camera Run
-    m_Blend:
-      m_Style: 1
-      m_Time: 2
