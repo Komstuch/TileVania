@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
     Rigidbody2D myRigidBody;
     Animator myAnimator;
     CapsuleCollider2D myBodyCollider2D;
-    BoxCollider2D myFeetCollider2D;
+    PolygonCollider2D myFeetCollider2D;
 
     float startingPlayerGravity;
 
@@ -23,7 +23,7 @@ public class Player : MonoBehaviour
         myRigidBody = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
         myBodyCollider2D = GetComponent<CapsuleCollider2D>();
-        myFeetCollider2D = GetComponent<BoxCollider2D>();
+        myFeetCollider2D = GetComponent<PolygonCollider2D>();
         startingPlayerGravity = myRigidBody.gravityScale;
         myBodyCollider2D.sharedMaterial.friction = 0f;
         myFeetCollider2D.sharedMaterial.friction = 0f;

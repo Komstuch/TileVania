@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7614973509113622541}
   - component: {fileID: 7614973509113622543}
-  - component: {fileID: 7614973509113622542}
   m_Layer: 0
   m_Name: Virtual Camera Run
   m_TagString: Untagged
@@ -59,23 +58,6 @@ MonoBehaviour:
     FarClipPlane: 5000
     Dutch: 0
   m_ComponentOwner: {fileID: 7614973510377482184}
---- !u!114 &7614973509113622542
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7614973509113622540}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2fba25a5cd15594e8f050a11e386c80, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ConfineMode: 0
-  m_BoundingVolume: {fileID: 0}
-  m_BoundingShape2D: {fileID: 0}
-  m_ConfineScreenEdges: 1
-  m_Damping: 0
 --- !u!1 &7614973509115457732
 GameObject:
   m_ObjectHideFlags: 0
@@ -103,7 +85,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7614973509115457732}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 38.37, y: -2.69, z: -10}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 7614973509384591815}
@@ -135,7 +117,7 @@ Camera:
   far clip plane: 5000
   field of view: 40
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 10
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -232,7 +214,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7614973509728217245}
   - component: {fileID: 7614973509728217247}
-  - component: {fileID: 7614973509728217246}
   m_Layer: 0
   m_Name: Virtual Camera Idle
   m_TagString: Untagged
@@ -281,23 +262,6 @@ MonoBehaviour:
     FarClipPlane: 5000
     Dutch: 0
   m_ComponentOwner: {fileID: 7614973510405939075}
---- !u!114 &7614973509728217246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7614973509728217244}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a2fba25a5cd15594e8f050a11e386c80, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_ConfineMode: 0
-  m_BoundingVolume: {fileID: 0}
-  m_BoundingShape2D: {fileID: 0}
-  m_ConfineScreenEdges: 1
-  m_Damping: 0
 --- !u!1 &7614973510121160014
 GameObject:
   m_ObjectHideFlags: 0
@@ -308,6 +272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7614973510121160015}
   - component: {fileID: 7614973510121160000}
+  - component: {fileID: 1088325079928325944}
   m_Layer: 0
   m_Name: State Driven Camera
   m_TagString: Untagged
@@ -371,6 +336,23 @@ MonoBehaviour:
     m_Time: 2
   m_CustomBlends: {fileID: 11400000, guid: 96c620c5455aa744dbc780cd88e0b6df, type: 2}
   m_ParentHash: []
+--- !u!114 &1088325079928325944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7614973510121160014}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fba25a5cd15594e8f050a11e386c80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ConfineMode: 0
+  m_BoundingVolume: {fileID: 0}
+  m_BoundingShape2D: {fileID: 0}
+  m_ConfineScreenEdges: 1
+  m_Damping: 0
 --- !u!1 &7614973510377482199
 GameObject:
   m_ObjectHideFlags: 0
