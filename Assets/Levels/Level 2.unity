@@ -327,7 +327,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -1836350963
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -848,7 +848,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 18843451
-  m_SortingLayer: 6
+  m_SortingLayer: 7
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.016129017, y: 0.016129017, z: 0}
@@ -1428,7 +1428,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1444833285
-  m_SortingLayer: 5
+  m_SortingLayer: 6
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.016129017, y: 0.016129017, z: 0}
@@ -13849,7 +13849,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -939910815
-  m_SortingLayer: 4
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0.016129017, y: 0.016129017, z: 0}
@@ -14574,6 +14574,16 @@ PrefabInstance:
       propertyPath: m_Instructions.Array.data[2].m_ActivateAfter
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7614973509728217245, guid: 41057e9153e660f41b509230832b6c89,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -17.800003
+      objectReference: {fileID: 0}
+    - target: {fileID: 7614973509728217245, guid: 41057e9153e660f41b509230832b6c89,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.05
+      objectReference: {fileID: 0}
     - target: {fileID: 7614973509728217247, guid: 41057e9153e660f41b509230832b6c89,
         type: 3}
       propertyPath: m_Follow
@@ -14600,6 +14610,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 330344820}
     - target: {fileID: 7614973510911917913, guid: 41057e9153e660f41b509230832b6c89,
+        type: 3}
+      propertyPath: m_BoundingShape2D
+      value: 
+      objectReference: {fileID: 1164047956}
+    - target: {fileID: 1343727401773274320, guid: 41057e9153e660f41b509230832b6c89,
+        type: 3}
+      propertyPath: m_BoundingShape2D
+      value: 
+      objectReference: {fileID: 1164047956}
+    - target: {fileID: 7414834512727200727, guid: 41057e9153e660f41b509230832b6c89,
         type: 3}
       propertyPath: m_BoundingShape2D
       value: 
